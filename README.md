@@ -185,4 +185,3 @@ The runner covers `w/o Text-Guided Fusion`, `w/o LMMP`, `w/o P_miss`,
 CSVs, and logs are written under `checkpoints/ablation_study_msp/`,
 `results/ablation_study_msp/`, and `logs/ablation_study_msp/`, respectively.
 Use `SETTINGS="wo_lmmp wo_p_miss"` to run only selected settings.
-# Miss-GER
